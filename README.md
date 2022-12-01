@@ -1,4 +1,4 @@
-# Oii eu sou a Cristiane Mello Bonizzi, estudante apaixonada por tecnologia! 👋
+# Oii eu sou a Cristiane Mello Bonizzi, desenvolvedora Full Stack apaixonada por tecnologia! 👋
 
 - 🌱 Estudando Power Bi
 - 😄 Pronouns: ela/dela
@@ -34,6 +34,6 @@
 
   <a href="https://www.linkedin.com/in/cristianemellosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
+
 </div>
 
