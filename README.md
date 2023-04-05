@@ -4,7 +4,7 @@ Desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecn
 - 🌱 Estudando Fundamentos AWS  - Escola da Nuvem
 - 🌱 Estudando SQL-TSQL  - Udemy
 - 🌱 Jornada Engenharia de dados - Bix Tecnologia
-- 🌱 Análise de dados com ferramnetas BI - Recode Pro 03/2023
+- 🌱 Análise de dados com Power Bi- Recode Pro 03/2023
 - 🌱 Bootcamp Data Enginners Women - Data EX - 02/2023
 - 😄 Pronouns: ela/dela
 
