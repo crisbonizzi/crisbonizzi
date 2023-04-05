@@ -1,6 +1,10 @@
-# Oii eu sou a Cristiane Mello Bonizzi, desenvolvedora Full Stack apaixonada por tecnologia! 👋
+# Oii eu sou a Cristiane Mello dos Santos, desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecnologia! 👋
 
-- 🌱 Estudando Power Bi
+- 🌱 Estudando Fundamentos AWS  - Escola da Nuvem
+- 🌱 Estudando SQL-TSQL  - Udemy
+- 🌱 Jornada Engenharia de dados - Bix Tecnologia
+- 🌱 Análise de dados com ferramnetas BI - Recode Pro 03/2023
+- 🌱 Bootcamp Data Enginners Women - Data EX - 02/2023
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -13,9 +17,9 @@
 
 
   
+  <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
