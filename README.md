@@ -1,4 +1,5 @@
-# Oii eu sou a Cristiane Mello dos Santos, desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecnologia! 👋
+# Oii eu sou a Cristiane Mello dos Santos.
+Desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecnologia! 👋
 
 - 🌱 Estudando Fundamentos AWS  - Escola da Nuvem
 - 🌱 Estudando SQL-TSQL  - Udemy
