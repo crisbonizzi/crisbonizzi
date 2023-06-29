@@ -1,8 +1,15 @@
 # Oii!! Sou a Cristiane Mello dos Santos.
 Desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecnologia! 👋
 
+Certificações
+  
+  • Certificação AWS Certified Cloud Practitioner
+  • Microsoft Azure Data Fundamentals DP-900
+
+
 - 🌱 Estudando Fundamentos AWS  - Escola da Nuvem
 - 🌱 Estudando SQL-TSQL  - Udemy
+- 🌱 Fundamentos AWS  - Escola da Nuvem 06/2023
 - 🌱 Jornada Engenharia de dados - Bix Tecnologia
 - 🌱 Análise de dados com Power Bi- Recode Pro 03/2023
 - 🌱 Bootcamp Data Enginners Women - Data EX - 02/2023
