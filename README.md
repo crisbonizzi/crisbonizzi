@@ -1,5 +1,6 @@
 # Oii!! Sou a Cristiane Mello dos Santos.
-Desenvolvedora Full Stack e estudante de Engenharia de dados apaixonada por tecnologia! 👋
+
+Cursando Análise e Desenvolvimento de Sistemas e formada como Desenvolvedora Full Stack pela Recode Pro. Sou uma estudante apaixonada por tecnologia! 👋
 
 Certificações
   
@@ -7,7 +8,7 @@ Certificações
   • Microsoft Azure Data Fundamentals DP-900
 
 
-- 🌱 Estudando Fundamentos AWS  - Escola da Nuvem
+- 🌱 Estudando Data Analytics - WomakersCode
 - 🌱 Estudando SQL-TSQL  - Udemy
 - 🌱 Fundamentos AWS  - Escola da Nuvem 06/2023
 - 🌱 Jornada Engenharia de dados - Bix Tecnologia
